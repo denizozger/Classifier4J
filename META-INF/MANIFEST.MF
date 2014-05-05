@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.5.3 
+Created-By: Apache Maven
+Built-By: Administrator
+Package: net.sf.classifier4J
+Build-Jdk: 1.4.1_01
+Extension-Name: Classifier4J
+Specification-Title: Text Classification in Java
+Specification-Vendor: Nick Lothian
+Implementation-Title: net.sf.classifier4J
+Implementation-Vendor: Nick Lothian
+Implementation-Version: 0.6
+
